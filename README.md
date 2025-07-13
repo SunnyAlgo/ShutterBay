@@ -15,8 +15,6 @@ ShutterBay is a fully responsive web application that empowers users to explore 
 
 👉 [View ShutterBay Live](https://sunnyalgo.github.io/ShutterBay/)
 
-*(Replace with your actual deployed URL, e.g. GitHub Pages, Netlify, Vercel.)*
-
 ---
 
 ## ✨ Features
